@@ -1,0 +1,45 @@
+h1,
+h2,
+h3,
+span {
+    font-family: Helvetica;
+}
+
+span {
+    color: blue;
+    font-weight: bold;
+}
+
+header {
+    background-image: url(images/pattern.jpeg);
+    text-align: center;
+}
+
+h2 {
+    font-size: 1.2rem;
+    font-size: 32px;
+    font-weight: bold;
+    color: #fff;
+}
+
+p {
+    font-size: 1.1rem;
+}
+
+header h1 {
+    font-weight: bold;
+    color: khaki;
+    font-size: 100px;
+}
+
+.title-1 {
+    background-color: mediumspringgreen;
+}
+
+.title-2 {
+    background-color: lightcoral;
+}
+
+.title-3 {
+    background-color: skyblue;
+}
